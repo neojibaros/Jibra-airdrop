@@ -67,13 +67,13 @@ function Presale() {
         <Grid container direction="column" spacing={2}>
           <Grid item>
             <div className="card-header">
-              <Typography variant="h5">¡Llegó el Artdrop del Amor!</Typography>
+              <Typography variant="h5">¡Llegó el Artdrop de la Salud Mental!</Typography>
               <p> {address} </p>
             </div>
           </Grid>
           <Grid item>
             <div className="stake-top-metrics">
-              <Typography className="presale-items">Para redimir tus 19 NFTs de Amor, presiona:</Typography>
+              <Typography className="presale-items">Para redimir tus 10 NFTs de la salud mental, presiona:</Typography>
               <div style={{justifyContent: "center", display: "flex"}}>
                 <Button
                           className="stake-button"

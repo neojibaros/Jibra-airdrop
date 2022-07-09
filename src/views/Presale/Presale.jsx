@@ -67,7 +67,7 @@ function Presale() {
         <Grid container direction="column" spacing={2}>
           <Grid item>
             <div className="card-header">
-              <Typography variant="h5">¡Llegó el Artdrop del Amor!</Typography>
+              <Typography variant="h5">¡Llegó el Bori Collab: Pride!</Typography>
               <p> {address} </p>
             </div>
           </Grid>

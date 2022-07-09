@@ -73,7 +73,7 @@ function Presale() {
           </Grid>
           <Grid item>
             <div className="stake-top-metrics">
-              <Typography className="presale-items">Para redimir tus 19 NFTs de Amor, presiona:</Typography>
+              <Typography className="presale-items">Para redimir tus 10 NFTs de PRIDE, presiona:</Typography>
               <div style={{justifyContent: "center", display: "flex"}}>
                 <Button
                           className="stake-button"
